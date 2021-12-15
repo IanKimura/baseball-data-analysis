@@ -64,3 +64,4 @@ tallest players. It was interesting to see that based on some trends
 using their play I could see that one postion is going to be stronger
 or faster than the other. 
 
+[RStudio-ymHDaW.pdf](https://github.com/IanKimura/baseball-data-analysis/files/7717218/RStudio-ymHDaW.pdf)
